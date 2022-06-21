@@ -1,5 +1,10 @@
 ### Hi there 👋 I am Saeid Afsharnia, the Technical Artist!
 ---
+🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50" />   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain.svg" alt="Pycharm Logo" width="50" height="50" />   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="Pycharm Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="Pycharm Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Pycharm Logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="Pycharm Logo" width="50" height="50" />
+---
+
 Skillful technical artist with engineering background, experienced in animation and game design. 
 Eager to jump into unknown, visualize problems and deliver creative solution and learn more. Experienced in procedural modeling, automatic rigging and code driven shaders. 
 Strong artistic skills coming from digital painting, concept design and photography. Enthusiastic to become a key contributor to animation and game production and grow more.
