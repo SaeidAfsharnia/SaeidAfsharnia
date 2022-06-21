@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there 👋 I am Saeid Afsharnia, the Technical Artist!
+---
+Skillful technical artist with engineering background, experienced in animation and game design. 
+Eager to jump into unknown, visualize problems and deliver creative solution and learn more. Experienced in procedural modeling, automatic rigging and code driven shaders. 
+Strong artistic skills coming from digital painting, concept design and photography. Enthusiastic to become a key contributor to animation and game production and grow more.
 <!--
 **SaeidAfsharnia/SaeidAfsharnia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
